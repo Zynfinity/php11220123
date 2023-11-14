@@ -22,7 +22,7 @@
 	<td width='1700' value='center' align='center'bgcolor='#FFF0F5'>SELAMAT DATANG^^</td>
 		
 	</td>
-<tr><td colspan='2' height='50' align='center'><img src='./footer2.png' width='100%' height='150'</td></tr>
+<tr><td colspan='2' height='50' align='center'><img src='/footer2.png' width='100%' height='150'</td></tr>
 <footer>
 
 
